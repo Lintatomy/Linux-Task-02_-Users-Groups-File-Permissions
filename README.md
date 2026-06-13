@@ -207,6 +207,7 @@ Prevention of accidental changes
 Insider threat mitigation
 
 Folder Structure:-
+Structure.txt
 
 Linux Task 02_linta/
 │
