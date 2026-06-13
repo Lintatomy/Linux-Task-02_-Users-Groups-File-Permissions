@@ -207,7 +207,8 @@ Prevention of accidental changes
 Insider threat mitigation
 
 Folder Structure:-
-Linux_Task_02_StephenJ/
+
+Linux Task 02_linta/
 │
 ├── Screenshots/
 │   ├── S1_whoami.png
