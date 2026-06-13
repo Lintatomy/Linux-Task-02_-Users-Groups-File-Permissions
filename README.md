@@ -220,10 +220,10 @@ Linux Task 02_linta/
 │   ├── S3_ownership_after.png
 │   ├── S4_readonly.png
 │   ├── S4_readwrite.png
-│   └── S5_fullaccess.png
+│   └── S4_fullaccess.png
 │
 ├── Commands Used.txt
 ├── Permission Analysis.txt
 ├── Security Challenges.txt
-├── Linux Security Research.txt
+├── Research Answers.txt
 └── README.md
